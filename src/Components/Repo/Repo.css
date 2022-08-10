@@ -1,0 +1,26 @@
+h2 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #24292f;
+  text-align: center;
+  text-transform: capitalize;
+  margin-top: 0;
+}
+
+.repoTitle {
+  background-color: #f6f8fa;
+  width: 100%;
+  height: 100px;
+  margin: 0;
+  padding-top: 30px;
+}
+
+#tableContainer {
+  width: 90%;
+  margin: 30px 5%;
+}
+
+#tableTitle {
+  font-weight: 600;
+}

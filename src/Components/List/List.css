@@ -1,0 +1,14 @@
+#container {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#container h2 {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 15px;
+  line-height: 1.5;
+  color: #24292f;
+  text-align: start;
+  margin-left: 10%;
+}

@@ -1,0 +1,14 @@
+footer {
+  background-color: #f6f8fa;
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+#icons {
+  color: #57606a;
+  margin-right: 10px;
+  margin-bottom: -20px;
+}
