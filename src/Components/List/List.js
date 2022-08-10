@@ -23,7 +23,7 @@ export default function List({ reposUrl, searchString, setClickToRepo }) {
       fetch(reposUrl)
         .then((response) => response.json())
         .then((result) => {
-          for (let i = 0; i < 30; i++) {
+          for (let i = 0; i < 20; i++) {
             urlArray.push(result[i].url);
           }
           // the initial array has all of repos url
